@@ -1,5 +1,5 @@
 middlefinger is an X11 PoW and PoS Hybrid Cryptocurrency
-Ticker: OPTI
+Ticker: MDF
 
 
 Development process
